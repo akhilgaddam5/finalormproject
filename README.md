@@ -7,7 +7,7 @@
 - **Git Repository URL:** https://github.com/akhilgaddam5/finalormproject.git
 
 
-# Project dEscription
+# Project description
 
 This is a project that demonstrates the use of prisma ORM in creating restful API's with mysqlite databse. The project is hosted on Vercel and the authentication is done in Firebase Auth.
 
